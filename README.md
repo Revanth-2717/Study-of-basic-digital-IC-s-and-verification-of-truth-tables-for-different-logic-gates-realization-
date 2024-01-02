@@ -78,13 +78,10 @@ nor(y7,a,b);
 endmodule
 RTL:![Screenshot 2024-01-02 192156](https://github.com/Revanth-2717/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152462274/752591aa-d70d-43fe-9c79-f539c78ce129)
 
-Truth table:![WhatsApp Image 2024-01-02 at 19 27 20_c3ed39c9](https://github.com/Revanth-2717/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152462274/ca100d2c-900d-4eaf-a372-347c1f827bc8)
+Logic symbol and Truth table:![WhatsApp Image 2024-01-02 at 19 27 20_c3ed39c9](https://github.com/Revanth-2717/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152462274/ca100d2c-900d-4eaf-a372-347c1f827bc8)
 Timing table:![Screenshot 2024-01-02 192641](https://github.com/Revanth-2717/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152462274/35e39261-7ee9-474b-8cf6-b7cad14fbf17)
 
-
 */
-Logic symbol & Truthtable
-RTL realization
 Output:
 RTL
 
